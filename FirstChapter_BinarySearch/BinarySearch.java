@@ -1,3 +1,5 @@
+package FirstChapter_BinarySearch;
+
 public class BinarySearch {
     private static Integer binarySearch (int[] list, int item) {
         //this function returns the index of the chosen item
